@@ -242,8 +242,6 @@ Project ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 
 ---
 
-*© 2024 Sistem Manajemen Gudang. All rights reserved.*
+*© 2025 Sistem Manajemen Gudang. All rights reserved.*
 
 </div>
-
-Similar code found with 2 license types
